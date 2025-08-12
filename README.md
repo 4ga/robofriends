@@ -1,4 +1,4 @@
-# RoboFriends + Create-React-App
+# RoboFriends - React + Create-React-App
 
 This implementation was created React classes and functional components.
 
