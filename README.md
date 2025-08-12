@@ -1,6 +1,6 @@
 # RoboFriends
 
-This implementation was created using npx create-react-app command, React classes and function components.
+This implementation was created using npx create-react-app command, React classes and functional components.
 
 To run the React project:
 
